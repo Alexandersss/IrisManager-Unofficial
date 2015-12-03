@@ -1,0 +1,40 @@
+
+(( 2.67U ))
+
+
+- Aggiunta Compatibilità con CFW REBUG 4.46.1 D-REX EDITION e altri futuri CFW 446dex.
+- Modalità DiscLess 4.46/446dex attivabile.
+
+(( 2.68U )) ALPHA3 ( Public Release)
+
+- Aggiunta Lingua Araba ( Grazie ad Haider Kiara )
+- Riconoscimento Automatico della lingua 
+- Archive Manager ( Traduzione Italiana ) Inclusa nella "Versione 2.68u-i" 
+- ControlFan Utility ( Traduzione Italiana ) Inclusa nella "Versione 2.68u-i" 
+- Rimossa la lingua Persiana  
+ ( A causa della scarsa traduzione, era inutile includerla. Verrà riadattata in seguito se qualche users gentilmente ce la tradurrà. ) 
+- Modalità DISCLESS PAYLOAD pre-attivata ( Fake BD ) per CFW's 355/430/446
+- Nuovi Colori di Sistema ( Background Style )
+ ( Deep Ruby )
+ ( Color Ocean )
+ ( Razzmic Berry )
+ ( Rich Electric Blue )
+- Corretti bug minori per una migliore stabilità
+
+
+(( 2.68u - ODE )) ALPHA3 ( Public Release)
+
+- Compatibile con tutti i sistemi ODE in circolazione ( Optical Drive Emulation )
+- Aggiunta Lingua Araba ( Grazie ad Haider Kiara )
+- Riconoscimento Automatico della lingua 
+- Archive Manager ( Traduzione Italiana ) Inclusa nella "Versione 2.68ODE-i" 
+- ControlFan Utility ( Traduzione Italiana ) Inclusa nella "Versione 2.68ODE-i" 
+- Rimossa la lingua Persiana  
+ ( A causa della scarsa traduzione, era inutile includerla. Verrà riadattata in seguito se qualche users gentilmente ce la tradurrà. ) 
+- Modalità DISCLESS PAYLOAD pre-attivata ( Fake BD ) per CFW's 355/430/446
+- Nuovi Colori di Sistema ( Background Style )
+ ( Deep Ruby )
+ ( Color Ocean )
+ ( Razzmic Berry )
+ ( Rich Electric Blue )
+- Corretti bug minori per una migliore stabilità

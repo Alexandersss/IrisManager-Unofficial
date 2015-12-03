@@ -1,0 +1,230 @@
+[Language]
+VERSION = 2
+DESCRIPTION = DEFAULT ARABIC
+
+# VIDEO - ADJUST
+VIDEOADJUST_POSITION    = ﺔﺷﺎﺸﻟا ﻂﺒﻀﻟ (+Y)  ﻞﻔﺳﺃ / (-Y) ﯽﻠﻋﺃ / (+X)  ﻦﻴﻤﻳ / (-X)  ﺭﺎﺴﻴﻟا ﻡاﺪﺨﺘﺳا
+VIDEOADJUST_SCALEINFO   = X: %i Y: %i ﻮﻳﺪﻴﻔﻟا ﻢﺠﺣ
+VIDEOADJUST_EXITINFO    = ﺝﻭﺮﺨﻠﻟ CROSS ﻂﻐﺿا
+VIDEOADJUST_DEFAULTS    = ﺔﻴﺿاﺮﺘﻓﺎﻟا ﻢﻴﻘﻟا ﯽﻟا ﻉﻮﺟﺮﻠﻟ ﺓﺮﺋاﺪﻟا ﯽﻠﻋ ﻂﻐﺿا
+
+# SELECT - GAME FOLDER
+GAMEFOLDER_WANTUSE      = ﻡاﺪﺨﺘﺳا ﺪﻳﺮﺗ
+GAMEFOLDER_TOINSTALLNTR = ؟ﺔﺒﻌﻠﻟا ﺖﻴﺒﺜﺘﻟ
+GAMEFOLDER_USING        = ﻡاﺪﺨﺘﺳﺎﺑ
+GAMEFOLDER_TOINSTALL    = ﺔﺒﻌﻠﻟا ﺖﻴﺒﺜﺘﻟ
+    
+# DRAW SCREEN1
+DRAWSCREEN_FAVSWAP      = ﺔﻠﻀﻔﻤﻟا ﻞﻳﺪﺒﺗ
+DRAWSCREEN_FAVINSERT    = ﺔﻠﻀﻔﻣ  ﺝاﺭﺩإ
+DRAWSCREEN_FAVORITES    = ﺕﺎﻠﻀﻔﻤﻟا
+DRAWSCREEN_PAGE         = ﺔﺤﻔﺻ
+DRAWSCREEN_GAMES        = ﺏﺎﻌﻟﺎﻟا
+DRAWSCREEN_PLAY         = ﻞﻴﻐﺸﺗ
+DRAWSCREEN_SOPTIONS     = SELECT: ﺔﺒﻌﻠﻟا ﺕاﺭﺎﻴﺧ
+DRAWSCREEN_SDELETE      = SELECT: ﺔﻠﻀﻔﻤﻟا ﻑﺬﺣ
+DRAWSCREEN_STGLOPT      = START: ﺔﻣﺎﻋ ﺕاﺭﺎﻴﺧ
+DRAWSCREEN_EXITXMB      =  XMB ﯽﻟا ﺝﻭﺮﺨﻟا
+DRAWSCREEN_CANRUNFAV    = ﺔﻠﻀﻔﻤﻟا ﻩﺬﻫ ﻞﻴﻐﺸﺗ ﻦﻜﻤﻳ ﺎﻟ
+DRAWSCREEN_MARKNOTEXEC  = HDD0 cache ﻲﻓ ﺬﻴﻔﻨﺘﻟا ﻝﻭﺎﺣ ﺬﻴﻔﻨﺘﻠﻟ ﺔﻠﺑﺎﻗ ﺮﻴﻏ ﺎﻬﻧﺃ ﯽﻠﻋ ﺰﻴﻤﺗ
+DRAWSCREEN_MARKNOTEX4G  = ﺐﻏ 4 >=  ﺔﻤﺴﻘﻣ ﺕﺎﻔﻠﻣ ﺪﺟﻮﻳ - ﺬﻴﻔﻨﺘﻠﻟ ﺔﻠﺑﺎﻗ ﺮﻴﻏ ﺎﻬﻧﺃ ﯽﻠﻋ ﺰﻴﻤﺗ
+DRAWSCREEN_GAMEINOFMNT  = USB ﻦﻣ  /dev_hdd0/game ﻲﻓ ﺐﻴﻛﺮﺘﻟ ﺪﺣاﻭ ﺪﻠﺠﻣ ﯽﻠﻋ ﺭﻮﺜﻌﻟا ﻊﻴﻄﺘﺳﺃ ﺎﻟ
+DRAWSCREEN_GAMEIASKDIR  = /dev_usb00 ﻲﻓ ﺀﺎﺸﻧإ ﺪﻳﺮﺗ ﻞﻫ
+DRAWSCREEN_GAMEICANTFD  = USB ﻦﻣ /dev_hdd0/game ﺐﻴﻛﺮﺘﻟ USB ﺯﺎﻬﺟ ﯽﻠﻋ ﺭﻮﺜﻌﻟا ﻊﻴﻄﺘﺳﺃ ﺎﻟ
+DRAWSCREEN_GAMEIWLAUNCH = ؟ﺔﺒﻌﻠﻟا ﻞﻴﻐﺸﺗ ﺀﺪﺑ ﺪﻳﺮﺗ ﻞﻫ
+DRAWSCREEN_EXTEXENOTFND = ﺬﻴﻔﻨﺘﻠﻟ ﻞﺑﺎﻗ ﻲﺟﺭﺎﺧ ﺩﺭﺎﻫ ﺪﺟﻮﻳ ﺎﻟ
+DRAWSCREEN_EXTEXENOTCPY =  ﺩاﺮﻴﺘﺳﺎﻟا ﻢﺘﻴﻟ'USB ﻦﻣ EBOOT.BIN ﺦﺴﻧ' ﻡاﺪﺨﺘﺳا
+DRAWSCREEN_REQBR        = ؟ﺔﻟﻭﺎﺤﻤﻟا ﺓﺩﺎﻋإ  BR-Disc@ ﺏﻮﻠﻄﻣ
+
+# DRAW OPTIONS
+DRAWGMOPT_OPTS          = ﺕاﺭﺎﻴﺧ
+DRAWGMOPT_CFGGAME       = Config. ﺔﺒﻌﻠﻟ
+DRAWGMOPT_CPYGAME       = ﺔﺒﻌﻠﻟا ﺦﺴﻧ
+DRAWGMOPT_DELGAME       = ﺔﺒﻌﻠﻟا ﻑﺬﺣ
+DRAWGMOPT_FIXGAME       = ﺕﺎﻔﻠﻤﻟا ﺕﺎﻧﻭﺫﺃ ﺡﺎﻠﺻإ
+DRAWGMOPT_TSTGAME       = ﺔﺒﻌﻠﻟا ﺭﺎﺒﺘﺧا
+DRAWGMOPT_CPYEBOOTGAME  = USB ﻦﻣ EBOOT.BIN ﺦﺴﻧ
+DRAWGMOPT_CPYTOFAV      = ﺔﻠﻀﻔﻤﻟا ﯽﻟا ﺦﺴﻧ
+DRAWGMOPT_DELFMFAV      = ﺔﻠﻀﻔﻤﻟا ﻦﻣ ﻑﺬﺣ
+
+DRAWGMOPT_FIXCOMPLETE   = !ﺕﺎﻧﻭﺫﺄﻟا ﺡﺎﻠﺻإ ﯽﻬﺘﻧا
+DRAWGMOPT_CPYOK         = ﺡﺎﺠﻨﺑ ﺦﺴﻨﻟا ﻢﺗ
+DRAWGMOPT_CPYERR        = ﺦﺴﻨﻟا ﻲﻓ ﺄﻄﺧ ﺙﺪﺣ
+DRAWGMOPT_CPYNOTFND     = ﺭﻮﺜﻌﻟا ﻢﺘﻳ ﻢﻟ
+
+# DRAW CONFIGS
+DRAWGMCFG_CFGS          = Config. ﺔﺒﻌﻠﻟ
+DRAWGMCFG_DSK           = ﺹﺮﻗ ﺝﺎﺘﺤﺗ
+DRAWGMCFG_NO            =  ﻿ﻻ
+DRAWGMCFG_YES           =  ﻿ﻢﻌﻧ
+DRAWGMCFG_UPD           = ﺖﻧﺮﺘﻧﺎﻟا ﻖﻳﺮﻃ ﻦﻋ ﺚﻳﺪﺤﺗ
+DRAWGMCFG_ON            = ﻞﻴﻐﺸﺗ
+DRAWGMCFG_OFF           = ﺀﺎﻔﻃإ
+DRAWGMCFG_EXTBOOT       = EBOOT.BIN ﻲﺟﺭﺎﺧ
+DRAWGMCFG_BDEMU         = BD Emu
+DRAWGMCFG_EXTHDD0GAME   = Ext /dev_hdd0/game
+DRAWGMCFG_SAVECFG       = ﻦﻳﻮﻜﺘﻟا ﻆﻔﺣ
+
+# DRAW GLOBAL OPTIONS
+DRAWGLOPT_OPTS          = ﺔﻣﺎﻋ ﺕاﺭﺎﻴﺧ
+DRAWGLOPT_SCRADJUST     = ﻮﻳﺪﻴﻔﻟا ﻂﺒﺿ
+DRAWGLOPT_CHANGEGUI     = ﻲﻟﺎﺤﻟا GUI ﺮﻴﻴﻐﺗ
+DRAWGLOPT_CHANGEBCK     = ﺔﻴﻔﻠﺨﻟا ﻥﻮﻟ ﺮﻴﻴﻐﺗ
+DRAWGLOPT_CHANGEDIR     = ﺔﺒﻌﻠﻟا ﺭﺎﺴﻣ ﺮﻴﻴﻐﺗ
+DRAWGLOPT_SWMUSICOFF    = ﯽﻘﻴﺳﻮﻤﻟا ﺀﺎﻔﻃإ
+DRAWGLOPT_SWMUSICON     = ﯽﻘﻴﺳﻮﻤﻟا ﻞﻴﻐﺸﺗ
+DRAWGLOPT_INITFTP       = FTP ﻡﺩﺎﺧ ﺔﺌﻴﻬﺗ
+DRAWGLOPT_TOOLS         = ﺕاﻭﺩﺃ
+DRAWGLOPT_CREDITS       = ﻑاﺮﺷﺎﻟا
+DRAWGLOPT_FTPINITED     = ? ﺔﻴﺋﺎﻘﻠﺗ FTP ﺔﻣﺪﺧ ﻦﻴﻜﻤﺗ ﺪﻳﺮﺗ ﻞﻫ @ FTP  ﻡﺩﺎﺧ ﺔﺌﻴﻬﺗ
+DRAWGLOPT_FTPARINITED   = ﻞﻌﻔﻟﺎﺑ FTP ﻡﺩﺎﺧ ﺔﺌﻴﻬﺗ ﻢﺗ
+DRAWGLOPT_FTPSTOPED     = init ﯽﻠﻋ ﻝاﺯﺎ/ﻔﻗﻮﺘﺗ  FTP ﻡﺩﺎﺧ
+
+# DRAW TOOLS
+DRAWTOOLS_TOOLS         = ﺕاﻭﺩﺃ
+DRAWTOOLS_DELCACHE      = Cache ﺓاﺩﺃ ﻑﺬﺣ
+# DRAWTOOLS_SECDISABLE    =  Syscall  ﻦﻣﺃ ﻞﻴﻄﻌﺘﻟ ﻂﻐﺿا
+# DRAWTOOLS_SECENABLE     = Syscall ﻦﻣﺃ ﻦﻴﻜﻤﺘﻟ ﻂﻐﺿا
+DRAWTOOLS_PKGTOOLS      =  .PKG ﺖﻴﺒﺜﺗ
+DRAWTOOLS_COPYFROM      = Iris ﺪﻠﺠﻣ ﯽﻟا /dev_usb/iris ﻦﻣ ﺦﺴﻧ
+DRAWTOOLS_WITHBDVD      = ﺹاﺮﻗا ﻙﺮﺤﻣ ﺩﻮﺟﻭ
+DRAWTOOLS_NOBDVD        = ﺹاﺮﻗا ﻙﺮﺤﻣ ﺩﻮﺟﻭ ﻥﻭﺪﺑ
+DRAWTOOLS_NOBDVD2       = ﻱﺮﻫﺎﻈﻟا ﺹاﺮﻗﺄﻟا ﻙﺮﺤﻣ ﻊﺿﻭ
+DRAWTOOLS_ARCHIVEMAN    = ﺕﺎﻔﻠﻤﻟا ﺓﺭاﺩإ
+
+
+# MAIN - OTHERS
+DRAWCACHE_CACHE         = Cache ﺓاﺩﺃ ﻑﺬﺣ
+DRAWCACHE_ERRNEEDIT     = ﺖﻴﺒﺜﺘﻠﻟ ﺔﻴﻓﺎﻛ %1.2f GB ﺝﺎﺘﺤﺗ
+DRAWCACHE_ASKTODEL      = ؟ %s Cache ﻑﺬﺣ
+PATCHBEMU_ERRNOUSB      = USB ﺓﺰﻬﺟﺄﻟ ﻂﻘﻓ ﻮﻫ BDEMU
+MOVEOBEMU_ERRSAVE       = :@%s ﻆﻔﺣ ﻲﻓ ﺄﻄﺧ
+MOVEOBEMU_ERRMOVE       = ﺩﻮﺟﻮﻣ :@%s ﻞﻘﻧ ﻲﻓ ﺄﻄﺧ
+MOVEOBEMU_MOUNTOK       = :@%s ﻲﻓ ﻞﻴﻤﺤﺗ BDEMU
+MOVETBEMU_ERRMOVE       = ﺩﻮﺟﻮﻣ :@%s ﻞﻘﻧ ﻲﻓ ﺄﻄﺧ
+
+# UTILS
+# FAST COPY ADD
+FASTCPADD_FAILED        = fast_copy_process() ret ﻲﻓ ﻞﺸﻓ
+FASTCPADD_ERRTMFILES    = ﺕﺎﻔﻠﻤﻟا ﻦﻣ ﺮﻴﺜﻜﻟا
+FASTCPADD_FAILEDSTAT    = () ﺕﺎﻴﺋﺎﺼﺣﺈﻟا ﻲﻓ ﻞﺸﻓ
+FASTCPADD_ERROPEN       = (ﺔﺑﺎﺘﻜﻟا) 0ﺢﺘﻓ ﺀﺎﻨﺛﺃ ﺄﻄﺧ ﺙﺪﺣ
+FASTCPADD_COPYING       = ﺦﺴﻨﻟا ﻱﺭﺎﺟ
+FASTCPADD_FAILFASTFILE  = fast_files(fast_num_files).mem ﻲﻓ ﻞﺸﻓ
+
+# FAST COPY PROCESS
+FASTCPPRC_JOINFILE      = ﺕﺎﻔﻠﻤﻟا ﺞﻣﺩ ﻱﺭﺎﺟ
+FASTCPPRC_COPYFILE      = ﻒﻠﻣ .ﺦﺴﻧ
+FASTCPPTC_OPENERROR     = ﺡﺩﺎﻔﻟا ﺄﻄﺨﻟا ﺽﺮﻌﻟ ﺔﻴﻧﺎﺛ  ﺮﻈﺘﻧا %i@ ﺔﺣﻮﺘﻔﻣ ﺕﺎﻔﻠﻣ !!!!!!!!!!!!!!!!!!!!!!!!!ﺄﻄﺧ
+
+# GAME TEST FILES
+GAMETESTS_FOUNDINSTALL  = ؟ﺖﻴﺒﺜﺘﻟا ﻲﻓ ﺐﻏﺮﺗ ﻞﻫ %s@@ ﯽﻠﻋ ﺮﺜﻋ
+GAMETESTS_BIGFILE       = ﺮﻴﺒﻛ ﻒﻠﻣ
+GAMETESTS_TESTFILE      = ﻒﻠﻤﻟا ﺭﺎﺒﺘﺧا
+GAMETESTS_CHECKSIZE     = ﻒﻠﻤﻟا ﻢﺠﺣ ﻦﻣ ﻖﻘﺤﺘﻟا
+
+# GAME DELETE FILES
+GAMEDELFL_DELETED       = ﻑﺬﺣ
+GAMEDELFL_DELETING      = ﻒﻠﻤﻟا ...ﻑﺬﺣ ﻱﺭﺎﺟ
+
+# GAME COPY
+GAMECPYSL_GSIZEABCNTASK = ؟ﺔﺨﺴﻨﻟا ﺔﻌﺑﺎﺘﻣ - ﻂﺒﺣإ : ﻢﺠﺤﻟا ﯽﻠﻋ ﻝﻮﺼﺤﻟا
+GAMECPYSL_STARTED       = @ ﺦﺴﻧ ...ﺀﺪﺑ ﻱﺭﺎﺟ
+GAMECPYSL_SPLITEDHDDNFO = HDD0 (non bootable) ﯽﻟا ﺎﻬﺨﺴﻧ ﺐﺠﻳ ﺔﻤﺴﻘﻣ ﺔﺒﻌﻟ%s@@
+GAMECPYSL_SPLITEDUSBNFO = USB00%c (non bootable) ﯽﻟا ﺎﻬﺨﺴﻧ ﺐﺠﻳ ﺔﻤﺴﻘﻣ ﺔﺒﻌﻟ%s@@
+GAMECPYSL_DONE          = ﺕﺎﻔﻠﻤﻟا ﺦﺴﻧ !ﯽﻬﺘﻧا
+GAMECPYSL_FAILDELDUMP   = dump ﻲﻓ ﻑﺬﺣ ﻞﺸﻓ
+
+# GAME CACHE COPY
+GAMECHCPY_ISNEEDONEFILE = ﺮﻴﺒﻛ ﻒﻠﻣ ﻦﻋ ﻞﻘﻳ ﺎﻟ ﺖﻴﺒﺜﺘﻟ  ﺔﺣﺎﺴﻣ ﯽﻟإ ﺝﺎﺘﺤﺗ ﺖﻨﻛ ﻦﻜﻟﻭ ,ﻒﺳآ
+GAMECHCPY_NEEDMORESPACE = Cache ﺕﺎﻟﺎﺧﺩإ ﻑﺬﺣ ,ﺀﺎﺟﺮﻟا%.2fGB@@ ﺝﺎﺘﺤﺗ ﺖﻧاﻭ ﻍﺭﺎﻓ %.2fGB ﻚﻳﺪﻟ
+GAMECHCPY_NOSPACE       = %.2fGB@@ ﺝﺎﺘﺤﺗ ﺖﻧاﻭ @@ﻍﺭﺎﻓ %.2fGB ﻚﻳﺪﻟ ,ﻒﺳآ
+GAMECHCPY_CACHENFOSTART = ﺀﺪﺒﻟ ﺭﺯ ﻱﺃ ﯽﻠﻋ ﻂﻐﺿا(%.2fGB ﻲﻟﺎﻤﺟﺈﻟا)@@ HDD0 ﯽﻠﻋ %.2fGB ﻆﻔﺤﺑ ﺖﻤﻗ : %.2fGB@ ﺕﺎﻔﻠﻤﻟا ﻲﻟﺎﻤﺟإ : %.2fGB -Cache ﺕﺎﻔﻠﻣ
+GAMECHCPY_FAILDELFROM   = dump ﻦﻣ ﻞﺸﻓ Cache ﻑﺬﺣ
+
+# GAME DELETE
+GAMEDELSL_WANTDELETE    = ﻦﻣ ﻑﺬﺣ ﺪﻳﺮﺗ ﻞﻫ
+GAMEDELSL_STARTED       = @ ﻑﺬﺣ ...ﺀﺪﺒﻟا ﻱﺭﺎﺟ
+GAMEDELSL_DONE          = ﺕﺎﻔﻠﻤﻟا ﻑﺬﺣ !ﯽﻬﺘﻧا
+
+# GAME TEST
+GAMETSTSL_FINALNFO      = %i :ﺔﻤﺴﻘﻤﻟا ﺕﺎﻔﻠﻤﻟا %i :ﺓﺮﻴﺒﻜﻟا ﺕﺎﻔﻠﻤﻟا %i@ :ﺕﺎﻔﻠﻤﻟا %i :ﻞﺋﺎﻟﺪﻟا
+GAMETSTSL_TESTED        = ﺓﺮﺒﺘﺨﻤﻟا ﺕﺎﻔﻠﻤﻟا
+
+#GLOBAL UTILS
+GLUTIL_SPLITFILE        = ﻢﺴﻘﻣ ﻒﻠﻣ
+GLUTIL_WROTE            = ﺔﺑﺎﺘﻛ
+GLUTIL_TIME             = ﺖﻗﻮﻟا
+GLUTIL_TIMELEFT         = ﻲﻘﺒﺘﻤﻟا ﺖﻗﻮﻟا
+GLUTIL_HOLDTRIANGLEAB   = ﺔﻴﻠﻤﻌﻟا ﻑﺎﻘﻳﺎﻟ ﺚﻠﺜﻣ ﻂﻐﻀﺑ ﺮﻤﺘﺳا
+GLUTIL_HOLDTRIANGLESK   = استمر بضغط مثلث للتخطي
+GLUTIL_ABORTEDUSER      = ﻡﺪﺨﺘﺴﻤﻟا ﻞﺒﻗ ﻦﻣ ﻂﺒﺣإ
+GLUTIL_ABORTED          = !!!ﻂﺒﺣإ
+GLUTIL_XEXIT            = ﺝﻭﺮﺨﻠﻟ CROSS ﻂﻐﺿا
+GLUTIL_WANTCPYFROM      = ﻦﻣ ﺦﺴﻧ ﺪﻳﺮﺗ
+GLUTIL_WTO              = ﯽﻟا
+
+# GLOBAL
+GLOBAL_RETURN           = ﺓﺩﻮﻋ
+GLOBAL_SAVED            = ﻅﻮﻔﺤﻣ ﻒﻠﻤﻟا
+
+# INSTALL .PKG
+PKG_HEADER              = ﺝﻭﺮﺨﻠﻟ ﺓﺮﺋاﺩ ﻭ ﺭﺎﺘﺨﺘﻟ CROSS ﻡﺪﺨﺘﺳا .PKG ﺓاﺩا ﺖﻴﺒﺜﺗ
+PKG_INSERTUSB           = USB ﺔﻌﺴﻟا ﺮﻴﺒﻛ ﻦﻳﺰﺨﺗ ﺯﺎﻬﺟ ﺝاﺭﺩإ
+PKG_ERRTOBIG            = ﺓﺮﻴﻐﺻ ﺹﺮﻘﻟا ﺔﺣﺎﺴﻣ ﻭا اﺪﺟ ﺮﻴﺒﻛ ﻪﻤﺠﺣ .PKG
+PKG_WANTINSTALL         = .PKG ﻒﻠﻤﻟا اﺬﻫ ﺖﻴﺒﺜﺗ ﺪﻳﺮﺗ
+PKG_ERRALREADY          =  ﺩﻮﺟﻮﻣ ﻞﻌﻔﻟﺎﺑ PKG ﺄﻄﺧ
+PKG_ERRFULLSTACK        = Error: stack is full (max 16 entries)
+PKG_ERRBUILD            = PKG ﺔﻴﻠﻤﻋ ﺀﺎﻨﺑ ﻲﻓ ﺄﻄﺧ
+PKG_COPYING             = Iris Manager ﺪﻠﺠﻣ ﯽﻟا PKG ﻒﻠﻣ ﺦﺴﻧ ﻱﺭﺎﺟ
+PKG_ERROPENING          = PKG ﻒﻠﻣ ﺢﺘﻓ ﻲﻓ ﺄﻄﺧ
+PKG_ERRCREATING         = PKG ﻒﻠﻣ ﺀﺎﺸﻧﺃ ﻲﻓ ﺄﻄﺧ
+PKG_ERRREADING          = PKG ﻒﻠﻣ ﺔﺀاﺮﻗ ﻲﻓ ﺄﻄﺧ
+PKG_ERRLICON            = ﻒﻠﻤﻟا ﺔﻧﻮﻘﻳﺃ ﻞﻴﻤﺤﺗ ﻲﻓ ﺄﻄﺧ
+PKG_ERRMOVING           = PKG ﻞﻘﻧ ﻲﻓ ﺄﻄﺧ
+
+# DRAW_PSX
+DRAWPSX_EMULATOR        = ﻲﻛﺎﺤﻣ
+DRAWPSX_VIDEOPS         = PSX ﻮﻳﺪﻴﻓ ﺕاﺭﺎﻴﺧ
+DRAWPSX_SAVEASK         = PSX? ﺕاﺭﺎﻴﺧ ﻆﻔﺣ
+DRAWPSX_SAVED           = ﺖﻈﻔﺣ PSX ﺕاﺭﺎﻴﺧ 
+DRAWPSX_VIDEOTHER       = ىﺮﺧﺃ / ﻮﻳﺪﻴﻓ
+DRAWPSX_VIDEOMODE       = ﻮﻳﺪﻴﻔﻟا ﻊﺿﻭ
+DRAWPSX_VIDEOASP        = (480/576) ﻮﻳﺪﻴﻓ ﺐﻧاﻮﺟ
+DRAWPSX_FULLSC          = ﺔﻠﻣﺎﻛ ﺔﺷﺎﺷ
+DRAWPSX_SMOOTH          = Smooting
+DRAWPSX_EXTROM          = ROM ﻲﺟﺭﺎﺧ
+DRAWPSX_FORMAT          = ﺓﺮﻛاﺬﻟا ﺔﻗﺎﻄﺑ ﺔﺌﻴﻬﺗ
+DRAWPSX_ASKFORMAT       = ﺔﻴﻠﻤﻌﻟا ﻩﺬﻬﺑ ﺔﻇﻮﻔﺤﻤﻟا ﺕﺎﻔﻠﻤﻟا ﻊﻴﻤﺟ ﺪﻘﻔﺘﺳ @@ﺓﺮﻛاﺬﻟا ﺔﻗﺎﻄﺑ ﺔﺌﻴﻬﺗ ﺪﻳﺮﺗ ﻞﻫ
+DRAWPSX_ERRWRITING      = (ﺊﻠﺘﻤﻣ ﺯﺎﻬﺠﻟا) ﻒﻠﻣ ﺔﺑﺎﺘﻛ ﺀﺎﻨﺛﺃ ﺄﻄﺧ ﺙﺪﺣ
+DRAWPSX_BUILDISO        = ...ISO ﺀﺎﻨﺑ ﺓﺩﺎﻋإ
+DRAWPSX_ASKCHEATS       = ﻪﻣاﺪﺨﺘﺳا ﺪﻳﺮﺗ ﻞﻫ@@ PSX Cheat ﺹﺮﻗ ﺪﺟﻭ
+DRAWPSX_ERRCHEATS       = PSX ﺹﺮﻗ ﻥﻭﺪﺑ@@ﻪﻠﻴﻐﺸﺗ ﻦﻜﻤﻳ ﺎﻟ PSX Disc Cheats
+DRAWPSX_ERRSECSIZE      =  ISO ﺕﺎﻔﻠﻣ ﻲﻓ ﻒﻠﺘﺨﻣ sector ﻢﺠﺣ ﺄﻄﺧ
+DRAWPSX_ERRUNKSIZE      =   ﻑﻭﺮﻌﻣ ﺮﻴﻏ Sector ﻢﺠﺣ ﺄﻄﺧ
+DRAWPSX_DISCEJECT       = PSX ﺹﺮﻗ ﺝاﺮﺧﺃ
+DRAWPSX_DISCORDER       = ﺹﺮﻘﻟا ﺐﻴﺗﺮﺗ ﺪﻳﺪﺤﺗ
+DRAWPSX_PRESSOB         = ﺐﻴﺗﺮﺘﻟا ﺮﻴﻴﻐﺘﻟ ﺓﺮﺋاﺪﻟا ﯽﻠﻋ ﻂﻐﺿا
+DRAWPSX_PRESSXB         = ﺔﺒﻌﻠﻟا ﻞﻴﻐﺸﺘﻟ CROSS ﯽﻠﻋ ﻂﻐﺿا
+DRAWPSX_CHEATMAKE       = PSX Cheat disc found, but different sector size@@Want you build one compatible?
+DRAWPSX_COPYMC          = HDD0 ﺯﺎﻬﺟ ﯽﻟإ ﺓﺮﻛاﺬﻟا ﺔﻗﺎﻄﺑ ﺦﺴﻧ ﻱﺭﺎﺟ
+DRAWPSX_ERRCOPYMC       = HDD0 ﺯﺎﻬﺟ ﯽﻟإ ﺓﺮﻛاﺬﻟا ﺔﻗﺎﻄﺑ ﺦﺴﻧ ﻲﻓ ﺄﻄﺧ
+DRAWPSX_PUTFNAME        = :ﺪﻠﺠﻤﻟا ﻢﺳا ﻊﺿ
+DRAWPSX_FMUSTB          = ﻑﻭﺮﺣ >=3 ﺪﻠﺠﻤﻟا ﻢﺳا ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ
+DRAWPSX_PUTADISC        = ﺹﺮﻘﻟا ﺦﺴﻨﻟ@@ﺽﺎﻬﺟﺈﻠﻟ ﺎﻟ ﻭﺃ ﺔﻌﺑﺎﺘﻤﻠﻟ ﻢﻌﻧ ﻂﻐﺿاﻭ PSX ﺹﺮﻗ ﻊﺿ 
+DRAWPSX_UNREC           = ﻑﻭﺮﻌﻣ ﺮﻴﻏ ﺹﺮﻘﻟا
+DRAWPSX_ERROPENING      = BDVD ﻞﻐﺸﻣ ﺢﺘﻓ ﻲﻓ ﺄﻄﺧ
+DRAWPSX_ASKEFOLDER      = ﺔﻌﺑﺎﺘﻣ@@ﺩﻮﺟﻮﻣ ﺪﻠﺠﻣ
+DRAWPSX_ISOEXITS        = ﻲﻄﺨﺗ@@ﺩﻮﺟﻮﻣ
+       
+# generic
+OUT_OFMEMORY            = ﺓﺮﻛاﺬﻟا ﻦﻣ
+OPERATION_DONE          = !ﯽﻬﺘﻧا
+PLUG_STORAGE1           = ﺔﻴﻤﻫﻭ ﺹﺮﻘﻟا ﺔﻟﺎﺣ ﺀﺎﺸﻧﺈﻟ  ﺮﻴﺒﻛ USB ﻦﻳﺰﺨﺗ ﺯﺎﻬﺟ ﻞﻴﺻﻮﺘﺑ ﻢﻗ ﺮﻛﺬﺗ
+PLUG_STORAGE2           = ﻲﻤﻫ ﺹﺮﻗ ﻝﺎﺧﺩإ
+PATCH09_WAITGAME        = The firmware version in the game should be fixed, I correct him! @ Do not turn off the PS3 or remove the USB mass storage device!
+                          @The process may take several minutes .. Please wait ..
+PATCH09_WAITUPDATE      = The firmware version in the game should be fixed, the fix, I correct him! @ Do not turn off the PS3 or remove the USB mass storage device!
+                          @The process may take several minutes .. Please wait ..
+PATCH09_REBUILDGAME     = This game is not bootable! @ Reconstructing the game with a PC tool (example: trueancestor)
+PATCH09_REBUILDUPDATE   = This game is not bootable! @ Delete the update of the game, or rebuild it with a PC tool (example: trueancestor)
